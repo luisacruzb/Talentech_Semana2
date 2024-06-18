@@ -1,0 +1,39 @@
+.box{
+    width: 300px;
+    height: 200px;
+    border: solid;
+}
+.caja1{
+    background: linear-gradient(red, yellow);
+    border-radius: 100px;
+}
+.caja2{
+    background: linear-gradient(to right, violet, blue);
+}
+.caja3{
+    background: linear-gradient(to bottom right, green, yellow, orange);
+}
+.caja4{
+    background: linear-gradient(90deg, green, blue, violet);
+}
+.caja5{
+    background: linear-gradient(skyblue, lightpink, blue);
+}
+.caja6{
+    background: linear-gradient(to right, rgba(255,0,0,0.5), green 50%);
+}
+.caja7{
+    background: repeating-linear-gradient(red, yellow 10%, green 30%);
+}
+.caja8{
+    background: radial-gradient(violet, skyblue, purple);
+}
+.caja9{
+    background: radial-gradient(orange 10%, lightpink 20%, yellow 30%);
+}
+.caja10{
+    background: radial-gradient(circle, blue, green, purple);
+}
+.caja11{
+    background: linear-gradient(green, yellow, orange);
+}
